@@ -8,7 +8,7 @@ public class MathQuiz {
 		// TODO Auto-generated method stub
 		Addition quiz = new Addition();
 		int result = quiz.validResult(15, 25);
-		System.out.println(result);
+		System.out.println(result + "test 2 + 2 +2");
 		System.out.println(quiz.finalFailedMessage(result));
 		
 		
